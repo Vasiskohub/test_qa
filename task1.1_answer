@@ -20,3 +20,8 @@ touch fileB
 любая строка в файл fileA
 любая строка в файл fileВ
 
+любая строка в файл fileA
+git diff
+rm fileB
+добавить команды в task1.1_answer
+
