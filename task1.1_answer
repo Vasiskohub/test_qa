@@ -24,4 +24,4 @@ touch fileB
 git diff
 rm fileB
 добавить команды в task1.1_answer
-
+Еще добавил
